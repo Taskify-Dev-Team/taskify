@@ -7,7 +7,7 @@ function TasksPage() {
   return (
     <div className="flex h-screen">
       {/* Sidebar */}
-      <aside className="bg-zinc-800 w-48 flex-shrink-0">
+      <aside className="bg-zinc-800 w-48 flex-shrink-0 shadow-orange-500 shadow-md">
         <div className="p-4">
           <h1 className="text-2xl text-center text-orange-500 mb-4">
             <span className="border-b-2 border-orange-500">Task</span>ify
